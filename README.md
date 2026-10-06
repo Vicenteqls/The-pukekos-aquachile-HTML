@@ -58,12 +58,3 @@ El proyecto se estructura bajo una arquitectura Full Stack monolítica[cite: 1]:
 **Coordinador CITT / Docente:** Marcelo Eduardo Crisóstomo Carrasco[cite: 1]
 
 ---
-
-## 📁 Estructura del Repositorio
-
-```text
-├── docs/                      # Documentación del proyecto y pautas
-│   └── Actividad_Bases_MVP.docx
-├── src/                       # Código fuente de la aplicación (Frontend / Backend)
-├── public/                    # Archivos estáticos y mockups de diseño
-└── README.md                  # Descripción general del repositorio
